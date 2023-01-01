@@ -6,4 +6,4 @@ The input buffer has a stride of 3: [id | width | height] tightly packed. But It
 The inpuffer is read then cleared to store the output with stride 5: [id | width | height | x position | y position],
 Where the position is the (bottom left) position in the Atlas (container rectangle).
 
-![1](https://github.com/heathensoft/TexturePacker/blob/main/packer.gif?raw=true)
+![1](https://github.com/heathensoft/TexturePacker/blob/packer.gif?raw=true)
